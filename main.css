@@ -1,0 +1,11 @@
+.wrapper{
+    margin: 5px;
+}
+
+h1{
+    text-align: left;
+}
+/*this sets the background color of the entire body*/
+body{
+    background-color: lightblue;
+}
